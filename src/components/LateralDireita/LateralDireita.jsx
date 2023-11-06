@@ -44,7 +44,8 @@ export default function LateralDireita(){
             />
             <div className="direitos">
                 <span><p>Sobre - Ajuda - Imprensa - API - Carreiras - Privacidade - Termos - Localizações - Idioma - Meta verified (fictício)</p></span>
-                <span><p>&copy; 2023 INSTAGRAM FROM GUSTAVO SILVA ROCHA</p></span>
+                <span><p>&copy; 2023 INSTAGRAM FROM VINICIUS YEH</p></span>
+                <span> <p>Direitos Reservados a Vinicius Yeh</p> </span>
             </div>
         </div>
     )
