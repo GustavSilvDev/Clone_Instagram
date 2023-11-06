@@ -1,5 +1,5 @@
-# Clone da interface do Instagram
+# Clone do Instagram
 
-Aqui eu lhes apresento, Instagram feito em react. Por enquanto, não há responsividade, somente para desktop.
-#
-https://instagram-clone-react-eight.vercel.app/
+
+Apresento a vocês minha representação do Instagram
+https://clone-instagram-jkyjqxm5w-gustavo-silva-rochas-projects.vercel.app
